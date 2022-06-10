@@ -1,0 +1,7 @@
+move HEAD
+
+
+> git branch -r
+  origin/issue1
+  origin/issue1_logfiles
+  origin/main
